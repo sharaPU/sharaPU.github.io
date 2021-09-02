@@ -1,1 +1,1 @@
-# am-i-human
+# Imported originally from /yoidea/, Translated from Japanese to English
